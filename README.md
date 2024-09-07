@@ -3,6 +3,8 @@
 
 Welcome to the ai_dr project! This repository contains the code for an AI-driven application that uses the Llama-3 8B model to simulate a doctor. The AI can ask patients about their symptoms, provide diagnoses, and offer information about diseases, drugs, and treatments.
 
+Demo-link->https://drive.google.com/file/d/1E-Th9jDThvelUOa1_Lpz9PztZc88BuwK/view?usp=sharing
+
 ## Table of Contents
 
 - [Introduction](#introduction)
